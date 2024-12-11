@@ -37,3 +37,4 @@ def remove_multiples(lst, x):
             lst[i * x] = 0
         except IndexError:
             break
+        
