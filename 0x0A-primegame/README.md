@@ -40,7 +40,3 @@ print("Winner: {}".format(isWinner(5, [2, 5, 1, 4, 3])))
 carrie@ubuntu:~/0x0A-primegame$
 carrie@ubuntu:~/0x0A-primegame$ ./main_0.py
 Winner: Ben
-
-B
-B
-carrie@ubuntu:~/0x0A-primegame$
