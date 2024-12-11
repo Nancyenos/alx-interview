@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Determining the winner of a game based on the strategic removal of prime numbers and their multiples from a set of consecutive integers"""
+""" Module defining a winner in Prime numbers game """
 
 
 def isWinner(rounds, nums):
@@ -37,4 +37,3 @@ def remove_multiples(lst, x):
             lst[i * x] = 0
         except IndexError:
             break
-        
